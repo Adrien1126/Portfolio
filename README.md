@@ -7,11 +7,11 @@ This SQL-based project provides a set of scripts for calculating the **Market Va
 
 - [Context](#context)
 - [Features](#features)
-- [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
 - [Key Functions and Calculations](#key-functions-and-calculations)
-- [Contributing](#contributing)
+- [Possible improvement](#Possible-improvement)
+
 
 ## Context
 
